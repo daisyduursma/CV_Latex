@@ -1,0 +1,131 @@
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{grey}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.9]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Daisy}{Englert Duursma}
+%\title{Resum title}                               % optional, remove / comment the line if not wanted
+\address{22 Penruddock Street}{NSW 2756}{Australia}
+\phone[mobile]{(+61) 04 2185 8456}
+\email{daisy.duursma@gmail.com}
+\homepage{www.daisyduursma.com} 
+%\\extrainfo{additional information} 
+\photo[64pt][0.4pt]{daisypic}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+% \quote{Some quote}                                 % optional, remove / comment the line if not wanted
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{Personal details}
+\cventry{Date of birth}{16 September 1979}{}{}{}{}
+\cventry{Nationality}{United States of America}{}{}{}{}
+\cventry{Languages}{English (native), Dutch (intermediate)}{}{}{}{}
+
+\section{Professional experience}
+
+\cventry
+  {2009 -- Present}
+  {Postdoctoral Fellow, Data Scientist, Data Manager}
+  {Macquarie University}  
+  {Sydney, Australia}
+  {}
+  {\begin{itemize}
+  \item Analyse large amounts of data and present results in verbal, written and visual forms.
+  \item Effectively determine methods to combine data from many sources and in different formats.
+  \item Create and implement interactive tools to effectively communicate large amounts of data in ways that are useable to the stakeholders.
+  \item Liaise with key stakeholders to optimize project’s outputs to and ensure these are most beneficial to the client.
+  \item Develop, organise and teach spatial data analysis and visualization (R and ArcGIS).
+  \item Utilize high performance computing (HPC) to transform datasets to uniform formatting to increase data access, usability and discoverability.
+  \item Establish, develop and promote data management systems.
+  \end{itemize}
+  }
+
+\cventry
+  {2008}
+  {Spatial analyst}
+  {Texas Technological University}
+  {U.S.A. (based in Richmond NSW)}
+  {}
+  {\begin{itemize}
+  \item Predictive modelling of habitat quality for fish populations.
+  \end{itemize}
+  }
+  
+\cventry
+  {2005--2008}
+  {Spatial analyst}
+  {Finnish Forest Research Institute (METLA)}
+  {Helsinki, Finland}
+  {}
+  {\begin{itemize}
+  \item Integration of forest growth data in sawmill ...using R and ArcGIS to visualize and summarize habitat quality. 
+  \item Wrote project proposals and reports for funding agencies and governmental agencies.
+  \item Participant in EU wide project to harmonize forest carbon storate reporting methods. 
+  \end{itemize}
+  }
+
+\section{Education}
+
+\cventry
+    {2014--Submitted: Sept 2017}{PhD}{Macquarie University}{Australia}
+    {Machine learning to assess spatial and temporal variation in avian breeding phenology and traits}{}
+    
+\cventry
+    {2005--2007}{MSc}{University of Helsinki}{Finland}{Forest Sciences and Business}{}
+
+\cventry
+    {2001--2004}{BSc}{University of Idaho}{U.S.A}{Ecology and Conservation Biology}{}
+
+% 
+% \cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
+% Detailed achievements:%
+% \begin{itemize}%
+% \item Achievement 1;
+% \item Achievement 2, with sub-achievements:
+%   \begin{itemize}%
+%   \item Sub-achievement (a);
+%   \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+%     \begin{itemize}
+%     \item Sub-sub-achievement i;
+%     \item Sub-sub-achievement ii;
+%     \item Sub-sub-achievement iii;
+%     \end{itemize}
+%   \item Sub-achievement (c);
+%   \end{itemize}
+% \item Achievement 3.
+% \end{itemize}}
+% 
+% \cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+
+% \section{Languages}
+% \cvitemwithcomment{Language 1}{Skill level}{Comment}
+% \cvitemwithcomment{Language 2}{Skill level}{Comment}
+% \cvitemwithcomment{Language 3}{Skill level}{Comment}
+
+\section{Computer skills}
+\cvitem{Programming - excellent}{R (Spatial analyses, large datasets, maps, etc.)}{}{}
+\cvitem{Programming - good}{Python, Unix}{}{}
+\cvitem{ArcGIS}{ArcMap, ArcInfo}{}{}
+\cvitem{MS Office}{Word, Excel, Powerpoint}{}{}
+
+
+\end{document}
+
