@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  31 OCT 2017 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  21 NOV 2017 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,10 +323,10 @@ Package: collection 2013/03/28 v1.0.0 collections
 Package: moderncvstylecasual 2013/02/09 v1.3.0 modern curriculum vitae and lett
 er style scheme: casual
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
-Package: moderncvstyleclassic 2013/04/29 v1.5.1 modern curriculum vitae and let
+(./moderncvstyleclassic.sty
+Package: moderncvstyleclassic 2013/02/09 v1.3.0 modern curriculum vitae and let
 ter style scheme: classic
-(./moderncviconsmarvosym.sty
+ (./moderncviconsmarvosym.sty
 Package: moderncviconsmarvosym 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter icons: marvosym
 )
@@ -346,12 +346,12 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 68.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \section with sig. 'sm' on line 160.
+. Redefining command \section with sig. 'sm' on line 156.
 .................................................
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \subsection with sig. 'sm' on line 169.
+. Redefining command \subsection with sig. 'sm' on line 165.
 .................................................
 \cvitemwithcommentmainbox=\box41
 \cvitemwithcommentmainlength=\skip75
@@ -907,11 +907,11 @@ Package rerunfilecheck Info: File `daisy_biblio.out' has not changed.
 (rerunfilecheck)             Checksum: DD64ACE661E013BE3AF3967BBC79ADED;433.
  ) 
 Here is how much of TeX's memory you used:
- 17568 strings out of 493089
- 294136 string characters out of 6134842
+ 17564 strings out of 493089
+ 293940 string characters out of 6134842
  385260 words of memory out of 5000000
- 20847 multiletter control sequences out of 15000+600000
- 38547 words of font info for 54 fonts, out of 8000000 for 9000
+ 20846 multiletter control sequences out of 15000+600000
+ 38446 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,13n,45p,10364b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -921,7 +921,7 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on daisy_biblio.pdf (2 pages, 115208 bytes).
+Output written on daisy_biblio.pdf (2 pages, 115234 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream

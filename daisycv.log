@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  21 NOV 2017 15:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  21 NOV 2017 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -319,13 +319,10 @@ Package: collection 2013/03/28 v1.0.0 collections
 \cvcolumnsautowidth=\skip62
 \cvcolumnautowidth=\skip63
 \bibindent=\skip64
-) (./moderncvstylecasual.sty
-Package: moderncvstylecasual 2013/02/09 v1.3.0 modern curriculum vitae and lett
-er style scheme: casual
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
-Package: moderncvstyleclassic 2013/04/29 v1.5.1 modern curriculum vitae and let
+) (./moderncvstyleclassic.sty
+Package: moderncvstyleclassic 2013/02/09 v1.3.0 modern curriculum vitae and let
 ter style scheme: classic
+
 (./moderncviconsmarvosym.sty
 Package: moderncviconsmarvosym 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter icons: marvosym
@@ -346,24 +343,19 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 68.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \section with sig. 'sm' on line 160.
+. Redefining command \section with sig. 'sm' on line 156.
 .................................................
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \subsection with sig. 'sm' on line 169.
+. Redefining command \subsection with sig. 'sm' on line 165.
 .................................................
 \cvitemwithcommentmainbox=\box41
 \cvitemwithcommentmainlength=\skip75
 \cvitemwithcommentcommentlength=\skip76
 )
-\footerbox=\box42
-\footertempbox=\box43
-\footerwidth=\skip77
-\footerboxwidth=\skip78
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/moderncv/moderncvcolorgrey.sty
-Package: moderncvcolorgrey 2013/04/29 v1.5.1 modern curriculum vitae and letter
+(./moderncvcolorgrey.sty
+Package: moderncvcolorgrey 2013/02/09 v1.3.0 modern curriculum vitae and letter
  color scheme: grey
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
@@ -721,7 +713,7 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip79
+\Hy@SectionHShift=\skip77
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 32.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 32.
@@ -753,7 +745,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count132
 \scratchdimen=\dimen150
-\scratchbox=\box44
+\scratchbox=\box42
 \nofMPsegments=\count133
 \nofMParguments=\count134
 \everyMPshowfont=\toks19
@@ -836,7 +828,7 @@ Package microtype Info: Loading generic settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box45
+\AtBeginShipoutBox=\box43
 Package hyperref Info: Link coloring OFF on input line 32.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -854,59 +846,55 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write3
 \openout3 = `daisycv.out'.
 
-\makecvtitlepicturebox=\box46
- <daisypic.jpg, id=20, 509.905pt x 510.90875pt>
-File: daisypic.jpg Graphic file (type jpg)
+\makecvtitledetailsbox=\box44
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 35.
 
-<use daisypic.jpg>
-Package pdftex.def Info: daisypic.jpg used on input line 35.
-(pdftex.def)             Requested size: 64.0pt x 64.1207pt.
-\makecvtitlepicturewidth=\skip80
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-
- []
-
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 38.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 38.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 35.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 35.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 38.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 35.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 38.
+(Font)              <10> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <7> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <5> on input line 35.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
+\makecvtitlepicturebox=\box45
+
+<daisypic.jpg, id=22, 509.905pt x 510.90875pt>
+File: daisypic.jpg Graphic file (type jpg)
+ <use daisypic.jpg>
+Package pdftex.def Info: daisypic.jpg used on input line 35.
+(pdftex.def)             Requested size: 64.0pt x 64.1207pt.
+\makecvtitledetailswidth=\skip78
+\makecvtitlepicturewidth=\skip79
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 35.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 130.
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 130.
  [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./daisy
@@ -920,25 +908,24 @@ Package rerunfilecheck Info: File `daisycv.out' has not changed.
 (rerunfilecheck)             Checksum: B00DBCC276E2DE3DD4DFAB720C4E5D1D;496.
  ) 
 Here is how much of TeX's memory you used:
- 17597 strings out of 493089
- 294727 string characters out of 6134842
- 387568 words of memory out of 5000000
- 20878 multiletter control sequences out of 15000+600000
- 44722 words of font info for 53 fonts, out of 8000000 for 9000
+ 17596 strings out of 493089
+ 294350 string characters out of 6134842
+ 387573 words of memory out of 5000000
+ 20871 multiletter control sequences out of 15000+600000
+ 58506 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,12n,47p,10359b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/lo
-cal/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lm
-sso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on daisycv.pdf (1 page, 201062 bytes).
+ 45i,11n,45p,10359b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
+15/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marv
+osym/marvosym.pfb>
+Output written on daisycv.pdf (1 page, 200871 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 58 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 15398 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 20518 words of extra memory for PDF output out of 20736 (max. 10000000)
 
