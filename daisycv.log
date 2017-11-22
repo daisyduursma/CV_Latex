@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  21 NOV 2017 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  22 NOV 2017 06:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,9 +354,9 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 68.
 \cvitemwithcommentmainlength=\skip75
 \cvitemwithcommentcommentlength=\skip76
 )
-(./moderncvcolorgrey.sty
-Package: moderncvcolorgrey 2013/02/09 v1.3.0 modern curriculum vitae and letter
- color scheme: grey
+(./moderncvcolorblue.sty
+Package: moderncvcolorblue 2013/02/09 v1.3.0 modern curriculum vitae and letter
+ color scheme: blue
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -802,15 +802,15 @@ Package microtype Info: Loading generic settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(29.87721pt, 537.75343pt, 29.87723pt)
-* v-part:(T,H,B)=(33.80392pt, 760.53699pt, 50.70593pt)
+* h-part:(L,W,R)=(44.81126pt, 507.88533pt, 44.81128pt)
+* v-part:(T,H,B)=(50.70074pt, 718.29497pt, 76.05113pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=537.75343pt
-* \textheight=760.53699pt
-* \oddsidemargin=-42.39278pt
-* \evensidemargin=-42.39278pt
-* \topmargin=-75.46606pt
+* \textwidth=507.88533pt
+* \textheight=718.29497pt
+* \oddsidemargin=-27.45872pt
+* \evensidemargin=-27.45872pt
+* \topmargin=-58.56924pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -908,11 +908,11 @@ Package rerunfilecheck Info: File `daisycv.out' has not changed.
 (rerunfilecheck)             Checksum: 9C027839DB8893AD04E4170514C2AF8A;531.
  ) 
 Here is how much of TeX's memory you used:
- 17606 strings out of 493089
- 294470 string characters out of 6134842
- 387536 words of memory out of 5000000
- 20872 multiletter control sequences out of 15000+600000
- 58960 words of font info for 71 fonts, out of 8000000 for 9000
+ 17605 strings out of 493089
+ 294494 string characters out of 6134842
+ 387601 words of memory out of 5000000
+ 20876 multiletter control sequences out of 15000+600000
+ 64211 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,11n,45p,10359b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -920,12 +920,13 @@ texlive/2015/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marv
-osym/marvosym.pfb>
-Output written on daisycv.pdf (1 page, 199924 bytes).
+blic/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/l
+msso17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marvosym/marv
+osym.pfb>
+Output written on daisycv.pdf (1 page, 217709 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 20526 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 21550 words of extra memory for PDF output out of 24883 (max. 10000000)
 
