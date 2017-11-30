@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  21 NOV 2017 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.21)  28 NOV 2017 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -909,7 +909,7 @@ Package rerunfilecheck Info: File `daisy_biblio.out' has not changed.
 Here is how much of TeX's memory you used:
  17564 strings out of 493089
  293940 string characters out of 6134842
- 385260 words of memory out of 5000000
+ 385257 words of memory out of 5000000
  20846 multiletter control sequences out of 15000+600000
  38446 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -921,7 +921,7 @@ ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/lm/lmssbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/marv
 osym/marvosym.pfb>
-Output written on daisy_biblio.pdf (2 pages, 115234 bytes).
+Output written on daisy_biblio.pdf (2 pages, 115226 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  46 compressed objects within 1 object stream
